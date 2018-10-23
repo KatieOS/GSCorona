@@ -1,0 +1,2 @@
+# GSCorona
+gamesparks base corona
